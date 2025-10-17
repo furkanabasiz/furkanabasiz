@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate android developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Android Development with Kotlin**
-
-- 👨‍💻 All of my projects are available at [https://github.com/furkanabasiz](https://github.com/furkanabasiz)
-
-- 📫 How to reach me **frknabsz@gmail.com**
+-  I’m currently learning **Android Development with Kotlin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
