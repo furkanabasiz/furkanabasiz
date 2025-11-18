@@ -6,7 +6,4 @@ I’m currently learning on Android Development wih Kotlin
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=furkanabasiz&theme=github_dark&hide_border=false)<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=furkanabasiz&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
